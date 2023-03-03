@@ -1,0 +1,22 @@
+{
+  "name": "exemplo-smartcontract",
+  "version": "1.0.0",
+  "description": "modelo de teste smart contract",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israelmarcos-developer/exemplo-smartContract.git"
+  },
+  "author": "Israel Marcos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/israelmarcos-developer/exemplo-smartContract/issues"
+  },
+  "homepage": "https://github.com/israelmarcos-developer/exemplo-smartContract#readme"
+}
